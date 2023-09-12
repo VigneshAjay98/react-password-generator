@@ -1,0 +1,27 @@
+body {
+    background-color: #031b23;
+}
+
+.card-wrapper {
+    height: 100vh;
+}
+
+.card {
+    background-color: #d7d7d7;
+}
+
+.form-group {
+    margin: 5px 0 5px 0;
+}
+
+.password-field {
+    background-color: #51d95c;
+}
+
+.old-password-field {
+    background-color: #babd8f;
+}
+
+.error {
+    color: red;
+}
